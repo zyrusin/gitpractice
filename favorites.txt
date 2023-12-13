@@ -1,3 +1,10 @@
+Comida favorita
 pizza
 hamburguesa
 tacos
+
+Peliculas favoritas
+el señor de los anillos
+star wars
+volver al futuro
+
